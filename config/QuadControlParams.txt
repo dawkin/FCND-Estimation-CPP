@@ -20,12 +20,12 @@ maxMotorThrust = 4.5
 
 # Position control gains
 kpPosXY = 5
-kpPosZ = 5
+kpPosZ = 10
 KiPosZ = 10
 
 # Velocity control gains
 kpVelXY = 5
-kpVelZ = 3
+kpVelZ = 5
 
 # Angle control gains: rollpitch, yaw control
 kpBank = 12
